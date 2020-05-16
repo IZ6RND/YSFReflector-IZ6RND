@@ -32,7 +32,7 @@ include "version.php";
 		
 		<link rel="stylesheet" href="style.css" type="text/css">
 		
-		<title>YSF Dashborad</title>
+		<title>YSF Dashboard [customize by yourself]</title>
 		
 		<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 		
