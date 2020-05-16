@@ -1,8 +1,15 @@
 <?php
 
 date_default_timezone_set('UTC');
-define("YSFREFLECTORLOGPATH", "/var/log/YSFReflector"); // in base alle impostazioni di YSFReflecotr (processo di sistema)
-define("YSFREFLECTORLOGPREFIX", "log"); // prefisso del log file.. vedi il tuo YSFReflector.ini 
+
+define("YSFREFLECTORLOGPATH", "/var/log/YSFReflector"); 
+// ESEMPIO /var/log/YSFReflector
+// in base alle impostazioni di YSFReflecotr (processo di sistema)
+
+define("YSFREFLECTORLOGPREFIX", "log"); 
+// ESEMPIO log
+// prefisso del log file.. vedi il tuo YSFReflector.ini 
+
 define("YSFREFLECTORINIPATH", "/etc"); // sta qui ?
 define("YSFREFLECTORINIFILENAME", "YSFReflector.ini"); // è questo?
 define("YSFREFLECTORPATH", "/usr/local/bin/"); // sta qui ?
