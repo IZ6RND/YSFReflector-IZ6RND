@@ -2,3 +2,5 @@
 
 
 Arrangiati !
+
+Testato con PHP5.6
