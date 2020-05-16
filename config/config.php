@@ -1,7 +1,5 @@
 <?php
 
-# devi fare il setup....
-
 date_default_timezone_set('UTC');
 define("YSFREFLECTORLOGPATH", "/var/log/YSFReflector"); // in base alle impostazioni di YSFReflecotr (processo di sistema)
 define("YSFREFLECTORLOGPREFIX", "log"); // prefisso del log file.. vedi il tuo YSFReflector.ini 
