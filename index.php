@@ -101,7 +101,7 @@ include "include/allheard.php";
 //include "include/disk.php";
 
 ?>
-		<div class="panel panel-info">YSFReflector-Dashboard by <b>IZ6RND</b></div>
+		<div class="panel panel-info">YSFReflector-Dashboard by <b>IZ6RND & IK6IHH</b></div>
 		
 	</body>
 	
