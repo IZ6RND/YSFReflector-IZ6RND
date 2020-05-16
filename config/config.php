@@ -12,8 +12,4 @@ define("TIMEZONE", "Europe/Rome");
 define("LOGO", "IT-DMR_NET.png");
 define("REFRESHAFTER", "60");
 define("SHOWPROGRESSBARS", "on");
-define("TEMPERATUREALERT", "off");
-define("TEMPERATUREHIGHLEVEL", "60");
-define("SHOWQRZ", "off");
-define("GDPR", "0");
 ?>
