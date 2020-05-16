@@ -1,4 +1,10 @@
 <?php
+
+echo "Modifica il config/config.php a mano, per favore";
+exit();
+
+
+
 include "config/config.php";
 include "include/tools.php";
 header("Cache-Control: no-cache, must-revalidate");
