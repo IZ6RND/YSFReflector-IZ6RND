@@ -13,3 +13,9 @@ Ci saranno ovviamente lacune, errori ed omissioni.. stuzzicatevi la fantasia e a
 Un 73 cordiale e ricorda.. ambasciator non porta pena!
 
 de IZ6RND
+
+PS: un ringraziamento a Mimmo, IW6IHH, IW6NBX che collaborano a questo progetto
+
+NB: questo progetto potrà essere utile per la costituzione dell'infrastruttura DMR / YSF in Abruzzo (l'Italia) e non...
+
+Buon divertimento!
