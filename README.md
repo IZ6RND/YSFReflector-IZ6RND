@@ -1,3 +1,5 @@
-# YSFReflector-IZ6RND
+# YSFReflector-Dashboard
+Dashboard for YSFReflector (by IZ6RND)
+======================================
 
-No comment
+Fatti la dashboard tua!
