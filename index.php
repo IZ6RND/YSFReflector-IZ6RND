@@ -29,9 +29,12 @@ include "version.php";
 		<!-- Datatables -->
 		<link rel="stylesheet" href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css">
 		<script type="text/javascript" src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
+		
 		<link rel="stylesheet" href="style.css" type="text/css">
+		
 		<title>YSF Dashborad</title>
 		
+		<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 		
 		<script>
 			var i = 0;
