@@ -69,7 +69,9 @@ function getYSFReflectorLogIZ6RND($mode=null) {
 		$logPath  = YSFREFLECTORLOGPATH."/".YSFREFLECTORLOGPREFIX."-".date("Y-m-d").".log";
 	}
 	$logLines  = array();
-	$logLines = explode("\n", `egrep -h "Received|watchdog" $logPath | egrep -h "M:" $logPath | tail -10`);
+	// $logLines = explode("\n", `egrep -h "Received|watchdog" $logPath | egrep -h "M:" $logPath | tail -10`);
+	// BROKEN PIPE ISSUE 20210724
+	$logLines = explode("\n", `egrep -h "M:" $logPath | tail -10`);
 	// $logLines = explode("\n", `tail -n1000 $logPath`);
 	/*
 	echo "<pre>";
